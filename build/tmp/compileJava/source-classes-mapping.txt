@@ -1,2 +1,8 @@
+guru/springframework/spring5jokesappv2/services/JokeService.java
+ guru.springframework.spring5jokesappv2.services.JokeService
+guru/springframework/spring5jokesappv2/services/JokeServiceImpl.java
+ guru.springframework.spring5jokesappv2.services.JokeServiceImpl
 guru/springframework/spring5jokesappv2/Spring5JokesAppV2Application.java
  guru.springframework.spring5jokesappv2.Spring5JokesAppV2Application
+guru/springframework/spring5jokesappv2/controller/JokeController.java
+ guru.springframework.spring5jokesappv2.controller.JokeController
